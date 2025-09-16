@@ -5,7 +5,7 @@ go 1.23.6
 require (
 	github.com/CosmWasm/wasmd v0.60.0
 	github.com/CosmWasm/wasmvm/v2 v2.2.1
-	github.com/bcp-innovations/hyperlane-cosmos v1.0.0
+	github.com/bcp-innovations/hyperlane-cosmos v1.0.1
 	github.com/cosmos/cosmos-sdk v0.53.3
 	github.com/cosmos/gogoproto v1.7.0
 	github.com/prometheus/client_golang v1.22.0
